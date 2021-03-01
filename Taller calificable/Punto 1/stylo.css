@@ -1,0 +1,12 @@
+.Color {
+
+    color: white;
+    background-color: blue;
+    text-align: center;
+
+}
+.centrarfoto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

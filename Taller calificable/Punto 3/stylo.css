@@ -1,0 +1,46 @@
+
+div
+{
+    position: absolute;
+    height: 100%;
+}
+
+.linearoja1{
+
+      width: 6%;
+     background-color: red;
+    
+}
+
+.lineaazul1{
+     width: 5%;
+    left: 3%;
+    background-color: blue;
+}
+
+.lineaamarilla1{
+    width: 6%;
+    left: 7%;
+    background-color: yellow;
+}
+
+.linearoja2
+{
+    width: 12%;
+    left: 13%;
+    background-color: red;
+}
+
+.lineaazul2
+{
+    width: 35%;
+    left: 25%;
+     background-color: blue;
+}
+
+.lineaamarilla2
+{
+    width: 55%;
+    left: 55%;
+      background-color: yellow;
+}

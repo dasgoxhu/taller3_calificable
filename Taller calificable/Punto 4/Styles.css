@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+.Titulo{
+	width: 5%; height: 70%; float: left	
+}
+.Psuperior {
+    background: #B8EFE5; color: #565306; height: 70px; text-align: center
+}
+.Logo{
+	width: 70px; height: 70px 
+}
+.Pfm{
+	width: 35%; float: left; height: 600px
+}
+div#Lfo{
+	width: 35%; float: left; height: 600px
+}
+div#Af{
+	width: 30%; height: 50%; float: left
+}
+.Final{
+	float:left; background: #B8EFE5; color:#FF0004; height: 100%; width: 100%; text-align: center
+}
+.post{
+	width: 35%; height: 600px; float: left
+}
+.ImgCar{
+	width: 500px ; height:300px
+}
+.Afp{
+	width: 25%; height: 600px; float: left
+}
+body{
+	background-color:#B1A65B
+}
